@@ -20,7 +20,7 @@ In the project, I designed a **Star Schema**, created fact and dimension tables,
 
 # Technologies Used
 
-* MySQL Server 8
+* MySQL Server 
 * MySQL Workbench
 * Python
 * Pandas
