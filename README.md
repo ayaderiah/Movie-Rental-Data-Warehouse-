@@ -40,9 +40,7 @@ In the project, I designed a **Star Schema**, created fact and dimension tables,
 * `dim_film`
 * `dim_store`
 * `dim_staff`
-* `dim_category`
-* `dim_actor`
-* `dim_location`
+
 
 ## Fact Tables
 
@@ -92,29 +90,7 @@ Using the warehouse, different types of analysis can be done, such as:
 
 ---
 
-# Project Structure
 
-```bash id="4x9h9n"
-Movie-Rental-Data-Warehouse/
-│
-├── SQL/
-│   ├── sqlcode.sql
-│   └── sqlcode.txt
-│
-├── ETL/
-│   └── etl_process.ipynb
-│
-├── Images/
-│   ├── erd.png
-│   ├── film_categories.png
-│   ├── monthly_revenue.png
-│   └── top_customers.png
-│
-├── Report/
-│   └── reportdw.pdf
-│
-└── README.md
-```
 
 
 
